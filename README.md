@@ -6,3 +6,14 @@
 ```bash 
 git clone < url_repositorio>
 ```
+2. Preparando os arquivos para o commit 
+
+```bash
+git add <arquivo1>  <arquivo2>  ...<arquivoN>
+```
+OU
+```bash
+git add .
+```
+
+
