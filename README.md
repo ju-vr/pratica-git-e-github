@@ -18,7 +18,8 @@ git add .
 
 3. Fazendo o commit 
 ```bash
-git commit -m "mensagem"
+git commit -m "aprendendo fazer commit"
 ```
 **atenção** todo commit deve ter uma descrção (orbigatório)
+
 
